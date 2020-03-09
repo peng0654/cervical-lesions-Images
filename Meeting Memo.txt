@@ -1,0 +1,8 @@
+################# 3/7/2020,  Meet with Shufeng,Li. Discuss Project target.
+
+#For Shufeng:
+1) The paper will targeted on classifcation;
+2) Will try to incude both acetic acide and idoine image for further analysis;
+3) Above two tasks is targed within 2 weeks;
+
+####### End
